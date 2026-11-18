@@ -1,0 +1,23 @@
+scenario,role,eligible,top10_overlap_with_base,top10_names
+Base,Batter,64,,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Base,Bowler,78,,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+First innings par gap 10,Batter,70,9.0,Jimmy Neesham | Shashank Singh | George Dockrell | Suryakumar Yadav | Mark Chapman | Shivam Dube | Donovan Ferreira | Andre Russell | Marcus Stoinis | Heinrich Klaasen
+First innings par gap 10,Bowler,78,10.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+First innings par gap 20,Batter,54,8.0,Shashank Singh | Suryakumar Yadav | Dinesh Karthik | George Dockrell | Shivam Dube | Andre Russell | Moeen Ali | Heinrich Klaasen | Marcus Stoinis | Namboori Tilak Varma
+First innings par gap 20,Bowler,78,10.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+Bowling recent rate 9,Batter,64,10.0,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Bowling recent rate 9,Bowler,89,8.0,Joshua Little | Mitchell Starc | Vaibhav Arora | Khaleel Ahmed | Hardik Pandya | Sunil Narine | Wanindu Hasaranga | Brad Evans | Rashid Khan | Ravi Bishnoi
+Bowling recent rate 11,Batter,64,10.0,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Bowling recent rate 11,Bowler,66,4.0,Vaibhav Arora | Khaleel Ahmed | Naveen ul Haq | Sunil Narine | Dushmantha Chameera | Wanindu Hasaranga | Shaheen Afridi | Matheesha Pathirana | Haris Rauf | Yuzvendra Chahal
+Bat sample 40,Batter,67,10.0,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Bat sample 40,Bowler,78,10.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+Bat sample 60,Batter,60,9.0,Shashank Singh | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali | Namboori Tilak Varma
+Bat sample 60,Bowler,78,10.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+Bowl sample 20,Batter,64,10.0,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Bowl sample 20,Bowler,79,10.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Hardik Pandya | Mitchell Starc | Rashid Khan | Lungi Ngidi | Shaheen Afridi
+Bowl sample 40,Batter,64,10.0,Shashank Singh | Jimmy Neesham | Mark Chapman | Shivam Dube | Suryakumar Yadav | Andre Russell | Marcus Stoinis | George Dockrell | Heinrich Klaasen | Moeen Ali
+Bowl sample 40,Bowler,69,6.0,Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Hardik Pandya | Rashid Khan | Lungi Ngidi | Wanindu Hasaranga | Dushmantha Chameera | Matheesha Pathirana | Yuzvendra Chahal
+Impact/consistency 70/30,Batter,64,10.0,Shashank Singh | Shivam Dube | Jimmy Neesham | Mark Chapman | George Dockrell | Andre Russell | Marcus Stoinis | Suryakumar Yadav | Heinrich Klaasen | Moeen Ali
+Impact/consistency 70/30,Bowler,78,9.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Sunil Narine | Brad Evans | Mitchell Starc | Rashid Khan | Hardik Pandya | Wanindu Hasaranga | Shaheen Afridi
+Impact/consistency 80/20,Batter,64,10.0,Shashank Singh | Shivam Dube | Jimmy Neesham | George Dockrell | Andre Russell | Mark Chapman | Marcus Stoinis | Heinrich Klaasen | Suryakumar Yadav | Moeen Ali
+Impact/consistency 80/20,Bowler,78,8.0,Joshua Little | Khaleel Ahmed | Vaibhav Arora | Mitchell Starc | Brad Evans | Sunil Narine | Rashid Khan | Wanindu Hasaranga | Matheesha Pathirana | Hardik Pandya

@@ -1,0 +1,8 @@
+{
+  "raw_rows": 200999,
+  "raw_matches_with_ball_data": 867,
+  "dashboard_deliveries": 193988,
+  "dashboard_legal_balls": 185950,
+  "dashboard_matches": 837,
+  "note": "PDF reports 867 source matches; dashboard parquet is the IPL/T20I analysis scope and excludes 30 non-IPL T20 Asia Cup Rising Stars matches."
+}

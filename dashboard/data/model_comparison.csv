@@ -1,0 +1,21 @@
+role,player_id,name,model_b_rank,model_a_rank,model_c_rank,model_c_status,model_c_pool_size,model_c_eligible
+Batter,4260,Heinrich Klaasen,1,9,49.0,ranked,160,True
+Batter,1699,Suryakumar Yadav,2,5,45.0,ranked,160,True
+Batter,4755,Shivam Dube,3,4,60.0,ranked,160,True
+Batter,7897,Namboori Tilak Varma,4,11,13.0,ranked,160,True
+Batter,2756,Shashank Singh,5,1,4.0,ranked,160,True
+Batter,20702,Tristan Stubbs,6,19,6.0,ranked,160,True
+Batter,1596,Moeen Ali,7,10,98.0,ranked,160,True
+Batter,2639,Marcus Stoinis,8,7,69.0,ranked,160,True
+Batter,6396,Tim David,9,15,5.0,ranked,160,True
+Batter,6651,Towhid Hridoy,10,22,16.0,ranked,160,True
+Bowler,8661,Matheesha Pathirana,1,13,47.0,ranked,155,True
+Bowler,4807,Joshua Little,2,1,55.0,ranked,155,True
+Bowler,4900,Wanindu Hasaranga,3,11,12.0,ranked,155,True
+Bowler,4722,Rashid Khan,4,8,7.0,ranked,155,True
+Bowler,4816,Khaleel Ahmed,5,2,58.0,ranked,155,True
+Bowler,21784,Brad Evans,6,5,,below minimum,155,False
+Bowler,8746,Vaibhav Arora,7,3,133.0,ranked,155,True
+Bowler,829,Mitchell Starc,8,7,51.0,ranked,155,True
+Bowler,2399,Dushmantha Chameera,9,12,137.0,ranked,155,True
+Bowler,4641,Lungi Ngidi,10,9,35.0,ranked,155,True
